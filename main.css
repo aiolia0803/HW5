@@ -1,0 +1,11 @@
+body{
+	margin:0px;
+}
+.header{
+	width: 200px;
+	height: 50px;
+	background-color: green;
+	border: 6px solid #000000;
+	border-bottom: 6px dotted #000000;
+	margin:0px auto;
+}
