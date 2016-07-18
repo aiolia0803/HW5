@@ -10,3 +10,11 @@ body{
 	border-bottom: 6px dotted #000000;
 	margin:0px auto;
 }
+
+.content{
+	background-color: green;
+	width: 150px;
+	margin: 0px auto;
+	border: 6px solid #000000;
+	border-top: 0px;
+}
