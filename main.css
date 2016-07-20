@@ -24,5 +24,26 @@ body{
 	background-image: url('images/bg.jpg');
 	width: 800px;
 	height: 600px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.box_up{
+	width: 250px;
+	height: 200px;
+	background-color: #37495F;
+	display: inline-block;
+	text-align: center;
+	margin: 50px 15px 100px;
+}
+
+.div>p:nth-of-type(3){
+	border: 2px solid gray;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.box_down{
 
 }
