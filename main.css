@@ -60,7 +60,7 @@ div>p{
 
 .box_up>p:nth-of-type(3){
 	font-size: 18px;
-	width: 60%;
+	width: 180px;
 	border: 2px solid gray;
 	border-radius: 5px;
 	padding: 5px;
@@ -72,6 +72,7 @@ div>p{
 
 span:nth-child(1){
 	font-size: 20px;
+	vertical-align: top;
 }
 
 span:nth-child(2){
